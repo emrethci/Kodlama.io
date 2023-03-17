@@ -60,16 +60,16 @@ while True:
        ogrenciEkleme()
 
     elif numara ==2:
-        ogrenciSilme
+       ogrenciSilme()
 
     elif numara ==3:
-        cokluOgrEkleme
+       cokluOgrEkleme()
 
     elif numara ==4:
-        cokluOgrSilme
+        cokluOgrSilme()
 
     elif numara==5:
-        ogrenciBul
+        ogrenciBul()
 
         break            
 
