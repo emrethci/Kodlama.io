@@ -1,6 +1,5 @@
 # Odev2
 
-from itertools import count
 
 
 def ogrenciEkleme():
